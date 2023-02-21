@@ -6,7 +6,7 @@
 #    By: hait-hsa <hait-hsa@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/20 23:26:19 by hait-hsa          #+#    #+#              #
-#    Updated: 2023/02/20 21:58:54 by hait-hsa         ###   ########.fr        #
+#    Updated: 2023/02/21 16:46:21 by hait-hsa         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -45,3 +45,5 @@ clean:
 		${RM} ${OBJCTS}
 
 re:	fclean all
+
+.PHONY: all fclean clean re
