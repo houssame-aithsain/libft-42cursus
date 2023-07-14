@@ -39,7 +39,7 @@
 <body>
   <h1>Libft 42 Curses Project</h1>
   
-  <img src="https://your-image-url.com" alt="Libft 42 Curses Project">
+  <img src="https://www.scaler.com/topics/cpp/library-functions-in-cpp/" alt="Libft 42 Curses Project">
   
   <p>Welcome to the Libft 42 Curses Project! This project is part of the 42 curriculum and focuses on creating a library of useful functions as well as implementing a simple game using the curses library.</p>
 
