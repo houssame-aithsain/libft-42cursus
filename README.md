@@ -17,7 +17,7 @@
   
   <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/libft-curses.git</code></pre>
+    <pre><code>git clone https://github.com/houssame-aithsain/libft-42cursus.git</code></pre>
     <li>Change into the project directory:</li>
     <pre><code>cd libft-curses</code></pre>
     <li>Compile the library:</li>
