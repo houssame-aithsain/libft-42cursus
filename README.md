@@ -1,40 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Libft 42 Curses Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #333;
-      font-size: 24px;
-      margin-bottom: 20px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      margin-bottom: 20px;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      border-radius: 4px;
-      overflow: auto;
-    }
-    code {
-      font-family: Consolas, monospace;
-      font-size: 14px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>Libft 42 Curses Project</h1>
