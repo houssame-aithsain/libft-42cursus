@@ -47,8 +47,6 @@ int main(void) {
   <h2>Documentation</h2>
   
   <p>The <code>libft</code> library provides various functions that can be used for common tasks such as string manipulation, memory management, list operations, and more. The documentation for each function is available in the corresponding header file (<code>libft.h</code>).</p>
-  
-  <p>For detailed documentation and usage examples, refer to the <a href="https://github.com/your-username/libft-curses/wiki">Libft 42 Curses Project Wiki</a>.</p>
 
   <h2>Contributing</h2>
   
