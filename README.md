@@ -19,7 +19,7 @@
     <li>Clone the repository:</li>
     <pre><code>git clone https://github.com/houssame-aithsain/libft-42cursus.git</code></pre>
     <li>Change into the project directory:</li>
-    <pre><code>cd libft-curses</code></pre>
+    <pre><code>cd libft-42cursus</code></pre>
     <li>Compile the library:</li>
     <pre><code>make</code></pre>
     <li>Once the compilation is complete, you can start using the <code>libft</code> library and the game executable.</li>
