@@ -38,7 +38,7 @@ int main(void) {
 
   <p>To compile your code with the <code>libft</code> library, use the following command:</p>
   
-  <pre><code>gcc -o your_program your_code.c -L. -lft</code></pre>
+  <pre><code>gcc -o your_program your_code.c libft.a</code></pre>
   
   <p>To run the game executable, simply execute the following command:</p>
   
